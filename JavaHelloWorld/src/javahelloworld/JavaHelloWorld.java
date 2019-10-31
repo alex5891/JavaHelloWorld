@@ -8,7 +8,7 @@ package javahelloworld;
 import java.io.Console;
 
 /**
- *
+ * This is an application entry point.
  * @author ayushko
  */
 public class JavaHelloWorld {
